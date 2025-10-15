@@ -55,7 +55,7 @@ Para utilizar o tradutor, é necessário ter uma **conta no Azure** e criar um r
 
 Você pode rodar o notebook direto no [Google Colab](https://colab.research.google.com/) sem precisar instalar nada localmente.
 
-1. Acesse o arquivo em [`scripts/tradutor_artigos_tecnicos.ipynb`](scripts/tradutor_artigos_tecnicos.ipynb)
+1. Acesse o arquivo em [`scripts/tradutor_artigos_tecnicos.ipynb`](scripts/Tradutor_de_Artigos_Técnicos_com_AzureAI.ipynb)
 2. Execute as células em sequência.
 3. Insira o texto técnico em inglês e veja a tradução automática para português.  
 
